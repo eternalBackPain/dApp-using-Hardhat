@@ -1,0 +1,23 @@
+{
+  "name": "dapp-using-hardhat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eternalBackPain/dApp-using-Hardhat.git"
+  },
+  "author": "John Naoom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eternalBackPain/dApp-using-Hardhat/issues"
+  },
+  "homepage": "https://github.com/eternalBackPain/dApp-using-Hardhat#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.4"
+  }
+}
